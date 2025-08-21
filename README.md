@@ -26,12 +26,14 @@ Showcase your **projects, skills, resume, and contact details** in a professiona
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repo
+### 1️⃣ Clone the Repository
+Clone this repository to your local machine:
 ```bash
 git clone https://github.com/username/php-portfolio-website.git
-
----
-
-**### 2️⃣ **Set up data base****
+```
+### 2️⃣ Set Up the Database
+Create a new database named portfolio_db2:
 ```bash
-create database portfolio_db2 and Import the database schema.
+CREATE DATABASE portfolio_db2;
+```
+**Import the provided database schema into portfolio_db2 using your preferred tool (phpMyAdmin, MySQL CLI, etc.).**

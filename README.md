@@ -5,7 +5,7 @@ Showcase your **projects, skills, resume, and contact details** in a professiona
 
 ![Portfolio Preview](assets/images/p1.png)  
 
-
+![Portfolio Preview](assets/images/p2.png)  
 ---
 
 ## ✨ Features

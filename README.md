@@ -8,6 +8,10 @@ Showcase your **projects, skills, resume, and contact details** in a professiona
 ![Portfolio Preview](assets/images/p2.png)  
 ---
 
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
 ## ✨ Features
 - ✅ Modern & responsive design  
 - ✅ Dynamic project showcase  
